@@ -1,0 +1,133 @@
+body{
+    background-image: url('14.jpg');
+    margin: 0;
+    padding: 0; 
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+
+.nazvanie1{
+    text-align: center;
+    display: flex; 
+    height: 100vh;
+    justify-content: center; 
+    
+}
+
+.tu{
+    font-size: 24px;      
+}
+
+.nazvanie{
+    text-align: center;
+    display: flex;
+    height: 100vh;  
+    justify-content: center; 
+     display: flex;
+  flex-direction: column;
+  align-items: center; 
+  justify-content: center; 
+  text-align: center;
+  max-width: 800px; 
+  margin-left: 700px ;
+    color: darkgoldenrod;
+    font-style: italic; 
+}
+
+.au{
+    top: 0;
+    position: fixed;
+    justify-content: flex-start; 
+    align-items: flex-start;
+    height: 100vh;
+     margin: 0 auto;
+    display: block;
+}
+
+.ef{
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+      margin-bottom: 20px;
+}
+
+img{
+     max-width: 100%;
+  height: auto;
+}
+
+.naz{
+     text-align: center;
+    display: flex;
+    height: 100vh;  
+    justify-content: center; 
+     display: flex;
+  flex-direction: column;
+  align-items: center; 
+  justify-content: center; 
+  text-align: center;
+  max-width: 800px; 
+  margin: 0 auto; 
+    color: darkgoldenrod;
+    font-style: italic;
+    font-size: 20px;
+}
+
+
+.ul{
+    list-style-type: square;
+      text-align: left; 
+     margin-left:20px;
+    margin-bottom: 1050px ;
+    font-size: 20px;
+}
+
+.auq{
+  top: 0;
+    position: fixed;
+    justify-content: flex-start; 
+    align-items: flex-start;
+    height: 100vh;
+     margin: 0 auto;
+    display: block;
+    left: 1850px;
+    bottom: 700px; 
+}
+
+a {
+        display: block;
+      margin-top: 20px; 
+      color: darkgoldenrod; 
+      text-decoration: none; 
+      font-size: 20px; 
+    margin-top: 0;
+    font-style: italic;
+    }
+
+.flag{
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    position: relative;
+      left: 1600px; 
+      top: -550px;
+    width: 800px;
+    height: 300px;
+}
+
+.flag1{
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    position: relative;
+      left: 600px; 
+      top: -900px;
+    width: 800px;
+    height: 250px;
+}
